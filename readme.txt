@@ -42,6 +42,6 @@ Ensure the following are installed:
 ### Setup Steps:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/college-annual-day-management-system.git
+   git clone https://github.com/Nagashree2003/college-annual-day-management-system.git
    cd college-annual-day-management-system
 
